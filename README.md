@@ -1,0 +1,1 @@
+# scancode-glc-plugin
